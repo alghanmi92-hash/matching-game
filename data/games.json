@@ -1,0 +1,756 @@
+{
+  "developer": {
+    "footerText": "تم تطوير هذه الألعاب لتكون أداة ترويح داخل الأسرة.",
+    "whatsapp": "966558289157",
+    "email": "Alghanmi.92@gmail.com"
+  },
+  "games": [
+    {
+      "key": "numbers",
+      "title": "مطابقة الأرقام",
+      "description": "ابحث عن الرقم المطابق. مناسبة للتحدي السريع وتنشيط الذاكرة.",
+      "icon": "🔢",
+      "active": true,
+      "pairs": [
+        {
+          "pairId": 1,
+          "cardA": "1",
+          "cardB": "1",
+          "active": true
+        },
+        {
+          "pairId": 2,
+          "cardA": "2",
+          "cardB": "2",
+          "active": true
+        },
+        {
+          "pairId": 3,
+          "cardA": "3",
+          "cardB": "3",
+          "active": true
+        },
+        {
+          "pairId": 4,
+          "cardA": "4",
+          "cardB": "4",
+          "active": true
+        },
+        {
+          "pairId": 5,
+          "cardA": "5",
+          "cardB": "5",
+          "active": true
+        },
+        {
+          "pairId": 6,
+          "cardA": "6",
+          "cardB": "6",
+          "active": true
+        },
+        {
+          "pairId": 7,
+          "cardA": "7",
+          "cardB": "7",
+          "active": true
+        },
+        {
+          "pairId": 8,
+          "cardA": "8",
+          "cardB": "8",
+          "active": true
+        },
+        {
+          "pairId": 9,
+          "cardA": "9",
+          "cardB": "9",
+          "active": true
+        },
+        {
+          "pairId": 10,
+          "cardA": "10",
+          "cardB": "10",
+          "active": true
+        },
+        {
+          "pairId": 11,
+          "cardA": "11",
+          "cardB": "11",
+          "active": true
+        },
+        {
+          "pairId": 12,
+          "cardA": "12",
+          "cardB": "12",
+          "active": true
+        },
+        {
+          "pairId": 13,
+          "cardA": "13",
+          "cardB": "13",
+          "active": true
+        },
+        {
+          "pairId": 14,
+          "cardA": "14",
+          "cardB": "14",
+          "active": true
+        },
+        {
+          "pairId": 15,
+          "cardA": "15",
+          "cardB": "15",
+          "active": true
+        },
+        {
+          "pairId": 16,
+          "cardA": "16",
+          "cardB": "16",
+          "active": true
+        },
+        {
+          "pairId": 17,
+          "cardA": "17",
+          "cardB": "17",
+          "active": true
+        },
+        {
+          "pairId": 18,
+          "cardA": "18",
+          "cardB": "18",
+          "active": true
+        },
+        {
+          "pairId": 19,
+          "cardA": "19",
+          "cardB": "19",
+          "active": true
+        },
+        {
+          "pairId": 20,
+          "cardA": "20",
+          "cardB": "20",
+          "active": true
+        },
+        {
+          "pairId": 21,
+          "cardA": "21",
+          "cardB": "21",
+          "active": true
+        },
+        {
+          "pairId": 22,
+          "cardA": "22",
+          "cardB": "22",
+          "active": true
+        },
+        {
+          "pairId": 23,
+          "cardA": "23",
+          "cardB": "23",
+          "active": true
+        },
+        {
+          "pairId": 24,
+          "cardA": "24",
+          "cardB": "24",
+          "active": true
+        },
+        {
+          "pairId": 25,
+          "cardA": "25",
+          "cardB": "25",
+          "active": true
+        },
+        {
+          "pairId": 26,
+          "cardA": "26",
+          "cardB": "26",
+          "active": true
+        },
+        {
+          "pairId": 27,
+          "cardA": "27",
+          "cardB": "27",
+          "active": true
+        },
+        {
+          "pairId": 28,
+          "cardA": "28",
+          "cardB": "28",
+          "active": true
+        },
+        {
+          "pairId": 29,
+          "cardA": "29",
+          "cardB": "29",
+          "active": true
+        },
+        {
+          "pairId": 30,
+          "cardA": "30",
+          "cardB": "30",
+          "active": true
+        },
+        {
+          "pairId": 31,
+          "cardA": "31",
+          "cardB": "31",
+          "active": true
+        },
+        {
+          "pairId": 32,
+          "cardA": "32",
+          "cardB": "32",
+          "active": true
+        },
+        {
+          "pairId": 33,
+          "cardA": "33",
+          "cardB": "33",
+          "active": true
+        },
+        {
+          "pairId": 34,
+          "cardA": "34",
+          "cardB": "34",
+          "active": true
+        },
+        {
+          "pairId": 35,
+          "cardA": "35",
+          "cardB": "35",
+          "active": true
+        },
+        {
+          "pairId": 36,
+          "cardA": "36",
+          "cardB": "36",
+          "active": true
+        },
+        {
+          "pairId": 37,
+          "cardA": "37",
+          "cardB": "37",
+          "active": true
+        },
+        {
+          "pairId": 38,
+          "cardA": "38",
+          "cardB": "38",
+          "active": true
+        },
+        {
+          "pairId": 39,
+          "cardA": "39",
+          "cardB": "39",
+          "active": true
+        },
+        {
+          "pairId": 40,
+          "cardA": "40",
+          "cardB": "40",
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "qa",
+      "title": "سؤال وجواب",
+      "description": "طابق السؤال مع إجابته. مناسبة للمراجعة الصفية.",
+      "icon": "❓",
+      "active": true,
+      "pairs": [
+        {
+          "pairId": 1,
+          "cardA": "عاصمة المملكة العربية السعودية",
+          "cardB": "الرياض",
+          "active": true
+        },
+        {
+          "pairId": 2,
+          "cardA": "اليوم الوطني السعودي",
+          "cardB": "23 سبتمبر",
+          "active": true
+        },
+        {
+          "pairId": 3,
+          "cardA": "يوم التأسيس السعودي",
+          "cardB": "22 فبراير",
+          "active": true
+        },
+        {
+          "pairId": 4,
+          "cardA": "مؤسس المملكة العربية السعودية",
+          "cardB": "الملك عبدالعزيز",
+          "active": true
+        },
+        {
+          "pairId": 5,
+          "cardA": "قبلة المسلمين",
+          "cardB": "الكعبة المشرفة",
+          "active": true
+        },
+        {
+          "pairId": 6,
+          "cardA": "لغة القرآن الكريم",
+          "cardB": "اللغة العربية",
+          "active": true
+        },
+        {
+          "pairId": 7,
+          "cardA": "عدد أركان الإسلام",
+          "cardB": "خمسة أركان",
+          "active": true
+        },
+        {
+          "pairId": 8,
+          "cardA": "عدد الصلوات المفروضة يوميًا",
+          "cardB": "خمس صلوات",
+          "active": true
+        },
+        {
+          "pairId": 9,
+          "cardA": "ناتج 5 × 5",
+          "cardB": "25",
+          "active": true
+        },
+        {
+          "pairId": 10,
+          "cardA": "ناتج 12 ÷ 3",
+          "cardB": "4",
+          "active": true
+        },
+        {
+          "pairId": 11,
+          "cardA": "ناتج 9 × 7",
+          "cardB": "63",
+          "active": true
+        },
+        {
+          "pairId": 12,
+          "cardA": "ناتج 100 ÷ 4",
+          "cardB": "25",
+          "active": true
+        },
+        {
+          "pairId": 13,
+          "cardA": "أكبر قارات العالم",
+          "cardB": "آسيا",
+          "active": true
+        },
+        {
+          "pairId": 14,
+          "cardA": "أكبر كوكب في المجموعة الشمسية",
+          "cardB": "المشتري",
+          "active": true
+        },
+        {
+          "pairId": 15,
+          "cardA": "الكوكب الأحمر",
+          "cardB": "المريخ",
+          "active": true
+        },
+        {
+          "pairId": 16,
+          "cardA": "رمز الماء كيميائيًا",
+          "cardB": "H2O",
+          "active": true
+        },
+        {
+          "pairId": 17,
+          "cardA": "عدد أيام الأسبوع",
+          "cardB": "سبعة أيام",
+          "active": true
+        },
+        {
+          "pairId": 18,
+          "cardA": "عدد أشهر السنة الهجرية",
+          "cardB": "12 شهرًا",
+          "active": true
+        },
+        {
+          "pairId": 19,
+          "cardA": "جمع كلمة كتاب",
+          "cardB": "كتب",
+          "active": true
+        },
+        {
+          "pairId": 20,
+          "cardA": "ضد كلمة سريع",
+          "cardB": "بطيء",
+          "active": true
+        },
+        {
+          "pairId": 21,
+          "cardA": "ضد كلمة قوي",
+          "cardB": "ضعيف",
+          "active": true
+        },
+        {
+          "pairId": 22,
+          "cardA": "مرادف كلمة تعاون",
+          "cardB": "مشاركة",
+          "active": true
+        },
+        {
+          "pairId": 23,
+          "cardA": "الجهاز المسؤول عن ضخ الدم",
+          "cardB": "القلب",
+          "active": true
+        },
+        {
+          "pairId": 24,
+          "cardA": "العضو المسؤول عن التنفس",
+          "cardB": "الرئتان",
+          "active": true
+        },
+        {
+          "pairId": 25,
+          "cardA": "وحدة قياس الحرارة",
+          "cardB": "الدرجة المئوية",
+          "active": true
+        },
+        {
+          "pairId": 26,
+          "cardA": "وحدة قياس الطول الشائعة",
+          "cardB": "المتر",
+          "active": true
+        },
+        {
+          "pairId": 27,
+          "cardA": "عاصمة منطقة مكة المكرمة",
+          "cardB": "مكة المكرمة",
+          "active": true
+        },
+        {
+          "pairId": 28,
+          "cardA": "البحر الذي يطل على جدة",
+          "cardB": "البحر الأحمر",
+          "active": true
+        },
+        {
+          "pairId": 29,
+          "cardA": "أول الخلفاء الراشدين",
+          "cardB": "أبو بكر الصديق",
+          "active": true
+        },
+        {
+          "pairId": 30,
+          "cardA": "آخر الأنبياء والمرسلين",
+          "cardB": "محمد ﷺ",
+          "active": true
+        },
+        {
+          "pairId": 31,
+          "cardA": "كتاب المسلمين المقدس",
+          "cardB": "القرآن الكريم",
+          "active": true
+        },
+        {
+          "pairId": 32,
+          "cardA": "الشهر الذي يصومه المسلمون",
+          "cardB": "رمضان",
+          "active": true
+        },
+        {
+          "pairId": 33,
+          "cardA": "الركن الخامس من أركان الإسلام",
+          "cardB": "الحج",
+          "active": true
+        },
+        {
+          "pairId": 34,
+          "cardA": "عاصمة مصر",
+          "cardB": "القاهرة",
+          "active": true
+        },
+        {
+          "pairId": 35,
+          "cardA": "عاصمة الإمارات",
+          "cardB": "أبوظبي",
+          "active": true
+        },
+        {
+          "pairId": 36,
+          "cardA": "ناتج 15 + 8",
+          "cardB": "23",
+          "active": true
+        },
+        {
+          "pairId": 37,
+          "cardA": "ناتج 50 - 17",
+          "cardB": "33",
+          "active": true
+        },
+        {
+          "pairId": 38,
+          "cardA": "معنى كلمة احترام",
+          "cardB": "تقدير الآخرين",
+          "active": true
+        },
+        {
+          "pairId": 39,
+          "cardA": "السلوك الصحيح عند الاختلاف",
+          "cardB": "الحوار الهادئ",
+          "active": true
+        },
+        {
+          "pairId": 40,
+          "cardA": "أساس النجاح في العمل الجماعي",
+          "cardB": "التعاون",
+          "active": true
+        }
+      ]
+    },
+    {
+      "key": "terms",
+      "title": "مصطلح وتعريف",
+      "description": "طابق المصطلح مع تعريفه. مناسبة للدورات التدريبية.",
+      "icon": "📘",
+      "active": true,
+      "pairs": [
+        {
+          "pairId": 1,
+          "cardA": "التغذية الراجعة",
+          "cardB": "معلومة تساعد على تحسين الأداء",
+          "active": true
+        },
+        {
+          "pairId": 2,
+          "cardA": "التعلم النشط",
+          "cardB": "مشاركة المتعلم في بناء المعرفة",
+          "active": true
+        },
+        {
+          "pairId": 3,
+          "cardA": "إدارة الوقت",
+          "cardB": "تنظيم المهام حسب الأولوية",
+          "active": true
+        },
+        {
+          "pairId": 4,
+          "cardA": "حل المشكلات",
+          "cardB": "تحليل التحدي واختيار أفضل حل",
+          "active": true
+        },
+        {
+          "pairId": 5,
+          "cardA": "التفكير الناقد",
+          "cardB": "فحص الفكرة قبل قبولها",
+          "active": true
+        },
+        {
+          "pairId": 6,
+          "cardA": "التواصل الفعال",
+          "cardB": "نقل الرسالة بوضوح وفهم",
+          "active": true
+        },
+        {
+          "pairId": 7,
+          "cardA": "التحفيز",
+          "cardB": "إثارة الدافعية نحو الإنجاز",
+          "active": true
+        },
+        {
+          "pairId": 8,
+          "cardA": "التقويم",
+          "cardB": "قياس مدى تحقق الأهداف",
+          "active": true
+        },
+        {
+          "pairId": 9,
+          "cardA": "المهارة",
+          "cardB": "قدرة تتحسن بالتدريب والممارسة",
+          "active": true
+        },
+        {
+          "pairId": 10,
+          "cardA": "العمل الجماعي",
+          "cardB": "تعاون الأفراد لتحقيق هدف مشترك",
+          "active": true
+        },
+        {
+          "pairId": 11,
+          "cardA": "التخطيط",
+          "cardB": "تحديد الأهداف وخطوات التنفيذ",
+          "active": true
+        },
+        {
+          "pairId": 12,
+          "cardA": "الإبداع",
+          "cardB": "إنتاج أفكار جديدة ومفيدة",
+          "active": true
+        },
+        {
+          "pairId": 13,
+          "cardA": "المبادرة",
+          "cardB": "البدء بالفعل دون انتظار",
+          "active": true
+        },
+        {
+          "pairId": 14,
+          "cardA": "المسؤولية",
+          "cardB": "تحمل نتائج القرارات والأعمال",
+          "active": true
+        },
+        {
+          "pairId": 15,
+          "cardA": "الانضباط",
+          "cardB": "الالتزام بالنظام والتعليمات",
+          "active": true
+        },
+        {
+          "pairId": 16,
+          "cardA": "القيادة",
+          "cardB": "التأثير في الآخرين نحو هدف",
+          "active": true
+        },
+        {
+          "pairId": 17,
+          "cardA": "التعاون",
+          "cardB": "مساندة الآخرين لإنجاز العمل",
+          "active": true
+        },
+        {
+          "pairId": 18,
+          "cardA": "المرونة",
+          "cardB": "التكيف مع المتغيرات",
+          "active": true
+        },
+        {
+          "pairId": 19,
+          "cardA": "التفكير الإبداعي",
+          "cardB": "إيجاد حلول غير تقليدية",
+          "active": true
+        },
+        {
+          "pairId": 20,
+          "cardA": "جودة الأداء",
+          "cardB": "إنجاز العمل بإتقان",
+          "active": true
+        },
+        {
+          "pairId": 21,
+          "cardA": "الاحترام",
+          "cardB": "تقدير الآخرين قولًا وسلوكًا",
+          "active": true
+        },
+        {
+          "pairId": 22,
+          "cardA": "النزاهة",
+          "cardB": "الصدق والعدل في التصرفات",
+          "active": true
+        },
+        {
+          "pairId": 23,
+          "cardA": "الطموح",
+          "cardB": "السعي لمستوى أعلى من الإنجاز",
+          "active": true
+        },
+        {
+          "pairId": 24,
+          "cardA": "المثابرة",
+          "cardB": "الاستمرار رغم الصعوبات",
+          "active": true
+        },
+        {
+          "pairId": 25,
+          "cardA": "اتخاذ القرار",
+          "cardB": "اختيار بديل مناسب بعد تفكير",
+          "active": true
+        },
+        {
+          "pairId": 26,
+          "cardA": "إدارة الصف",
+          "cardB": "تنظيم التعلم والسلوك داخل الفصل",
+          "active": true
+        },
+        {
+          "pairId": 27,
+          "cardA": "الدافعية",
+          "cardB": "الرغبة الداخلية في الإنجاز",
+          "active": true
+        },
+        {
+          "pairId": 28,
+          "cardA": "التعلم الذاتي",
+          "cardB": "اكتساب المعرفة بجهد فردي",
+          "active": true
+        },
+        {
+          "pairId": 29,
+          "cardA": "المشاركة",
+          "cardB": "إسهام الفرد في النشاط أو الحوار",
+          "active": true
+        },
+        {
+          "pairId": 30,
+          "cardA": "التقييم الذاتي",
+          "cardB": "مراجعة الفرد لأدائه بنفسه",
+          "active": true
+        },
+        {
+          "pairId": 31,
+          "cardA": "العصف الذهني",
+          "cardB": "توليد أفكار متعددة بسرعة",
+          "active": true
+        },
+        {
+          "pairId": 32,
+          "cardA": "الحوار",
+          "cardB": "تبادل الرأي باحترام ووضوح",
+          "active": true
+        },
+        {
+          "pairId": 33,
+          "cardA": "التفكير المنطقي",
+          "cardB": "بناء الحكم على أسباب واضحة",
+          "active": true
+        },
+        {
+          "pairId": 34,
+          "cardA": "حل النزاعات",
+          "cardB": "معالجة الخلاف بطريقة عادلة",
+          "active": true
+        },
+        {
+          "pairId": 35,
+          "cardA": "التعلم التعاوني",
+          "cardB": "تعلم يعتمد على عمل المجموعات",
+          "active": true
+        },
+        {
+          "pairId": 36,
+          "cardA": "الأهداف الذكية",
+          "cardB": "أهداف محددة وقابلة للقياس",
+          "active": true
+        },
+        {
+          "pairId": 37,
+          "cardA": "إدارة الأولويات",
+          "cardB": "تقديم الأهم على المهم",
+          "active": true
+        },
+        {
+          "pairId": 38,
+          "cardA": "الوعي الذاتي",
+          "cardB": "فهم الفرد لمشاعره وسلوكه",
+          "active": true
+        },
+        {
+          "pairId": 39,
+          "cardA": "الذكاء العاطفي",
+          "cardB": "فهم المشاعر وإدارتها بوعي",
+          "active": true
+        },
+        {
+          "pairId": 40,
+          "cardA": "أثر التعلم",
+          "cardB": "التغير الإيجابي الناتج عن التعلم",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
