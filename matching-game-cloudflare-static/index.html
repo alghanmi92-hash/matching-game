@@ -157,11 +157,13 @@ async function loadData(){
 
   try{
 
-    const res =
-      await fetch('/api/games');
+    const res = await fetch('/api/games',{cache:'no-store'});
 
-    DATA =
-      await res.json();
+    const games = await res.json();
+
+    DATA = {
+      games: games
+    };
 
     renderFooters();
     renderGames();
@@ -170,15 +172,12 @@ async function loadData(){
 
     document.getElementById('gamesGrid').innerHTML =
       `<div class="game-tile">
-        <div class="game-title">
-          تعذر تحميل الألعاب
-        </div>
+        <div class="game-title">تعذر تحميل الألعاب</div>
       </div>`;
 
   }
 
-}
-function renderFooters(){
+}function renderFooters(){
   const d=DATA.developer||{};
   const html=`<div class="footer-text">${escapeHtml(d.footerText||'تم تطوير هذه المنصة التعليمية التفاعلية.')}</div><div class="programmer-box"><div class="programmer-title">للتواصل مع المطور</div><a class="programmer-link" href="https://wa.me/${escapeAttr(d.whatsapp||'9665XXXXXXXX')}" target="_blank">واتساب</a><a class="programmer-link" href="mailto:${escapeAttr(d.email||'example@email.com')}">البريد</a></div>`;
   ['footerHub','footerStart','footerGame','footerEnd'].forEach(id=>document.getElementById(id).innerHTML=html);
